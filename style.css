@@ -1,0 +1,40 @@
+#welcome{
+    background: linear-gradient(#5005fb,#fc05d9);
+
+}
+
+#music{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: yellow;
+    border-style: groove;
+    padding: 20px;
+    
+}
+
+h1{
+    color: chocolate;
+}
+
+h2{
+    color: crimson
+}
+
+h3{
+    color: lightpink;
+    font-style: italic;
+    font-family: cursive;
+}
+
+body{
+    text-align: center
+}
+
+#abtm{
+   font-style: italic;
+    font-family:fantasy;
+    color: mediumorchid;
+    
+}
